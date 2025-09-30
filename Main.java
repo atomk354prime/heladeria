@@ -1,4 +1,4 @@
-//creadores Tatiana Ramirez Yojan Peña
+//creadores Tatiana Ramirez, Yojan Peña
 public class Main {
     public static void main(String[] args) {
         HeladoManager heladoManager = new HeladoManager();
